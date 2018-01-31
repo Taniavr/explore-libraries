@@ -66,3 +66,8 @@ ipt2 %>%
   mutate(github = grepl("github", URL)) %>%
   count(github) %>%
   mutate(prop = n / sum(n))
+
+
+##adding library information
+devtools::session_info()
+sessionInfo()
