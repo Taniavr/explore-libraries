@@ -4,6 +4,7 @@
 
 ## how jenny might do this in a first exploration
 ## purposely leaving a few things to change later!
+##Line from github browser
 devtools::session_info()
 library(tidyverse)
 library(fs)
