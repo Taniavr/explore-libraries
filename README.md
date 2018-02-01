@@ -7,4 +7,4 @@ Second line added in github
 
 Last part of workshop
 
-cafe
+coffee
